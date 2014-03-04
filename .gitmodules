@@ -1,0 +1,3 @@
+[submodule "vendor/MDCParallaxView"]
+	path = vendor/MDCParallaxView
+	url = git://github.com/modocache/MDCParallaxView.git
