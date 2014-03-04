@@ -8,7 +8,7 @@
     <ProjectGuid>{C212341B-E98B-48D4-8841-3D5009AAD1C3}</ProjectGuid>
     <ProjectTypeGuids>{F5B4F3BC-B597-4E2B-B552-EF5D8A32436F};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>MDCParallaxView.Bindings</RootNamespace>
+    <RootNamespace>ParallaxView.Bindings</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>MDCParallaxView.Bindings</AssemblyName>
   </PropertyGroup>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MDCParallaxView.Bindings
+namespace ParallaxView.Bindings
 {
 }
 

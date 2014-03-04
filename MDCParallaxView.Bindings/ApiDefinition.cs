@@ -4,7 +4,7 @@ using MonoTouch.ObjCRuntime;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
-namespace MDCParallaxView.Bindings
+namespace ParallaxView.Bindings
 {
 	[BaseType (typeof (UIView))]
 	public partial interface MDCParallaxView {
